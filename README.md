@@ -1,0 +1,2 @@
+# exerciseSelectFromWhere
+Exercise on Kaggle
